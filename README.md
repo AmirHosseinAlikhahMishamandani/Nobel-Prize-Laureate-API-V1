@@ -30,6 +30,3 @@ This repository contains a Python script that interfaces with the Nobel Prize AP
 ## Acknowledgments
 - Nobel Prize API for providing the data.
 - Contributors and supporters of the project.
-
-## License
-This project is licensed under the [License Name] - see the LICENSE file for details
